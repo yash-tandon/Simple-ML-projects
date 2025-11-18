@@ -36,7 +36,7 @@ A machine learning project that classifies iris flowers into three species based
 The KNN classifier achieved the highest accuracy of 100% on the test set.
 
 ## Kaggle Notebook
-[[]](https://www.kaggle.com/code/yashtandon007/iris-flower-classification)
+[Kaggle Link](https://www.kaggle.com/code/yashtandon007/iris-flower-classification)
 
 ## How to Run
 1. Clone this repository
