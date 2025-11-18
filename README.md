@@ -4,7 +4,7 @@ Simple Machine Learning Projects | Classification | Regression | NLP | Computer 
 ## 📁 Projects
 
 ### 1. Iris Flower Classification
-- **Description**: Multi-class classification of iris species using petal/sepal measurements
-- **Algorithms**: KNN, Logistic Regression, Random Forest, SVM
+- **Problem Statement**: Multi-class classification of iris species using petal/sepal measurements
+- **Algorithms Tested**: KNN, Logistic Regression, Random Forest, SVM
 - **Key Skills**: Data visualization, model comparison, feature importance
-- **Results**: 95%+ accuracy with KNN
+- **Results**: 100% accuracy with KNN
