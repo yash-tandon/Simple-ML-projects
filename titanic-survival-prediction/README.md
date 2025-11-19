@@ -33,6 +33,10 @@ Predict survival on the Titanic using machine learning. This project demonstrate
 - First class passengers had a much higher survival rate when compared to third class
 - "Women and children first" protocol clearly visible in data
 
+## Kaggle Notebook
+[Kaggle Link](https://www.kaggle.com/code/yashtandon007/titanic-survival-prediction)
+
+
 ## 🚀 Quick Start
 ```python
 # Run the Jupyter notebook
